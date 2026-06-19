@@ -1,4 +1,4 @@
-function logo(){
+function Logo(){
     // A marca fica isolada para ser reutilizada ou alterada sem mexer no Header.
     return (
         <div className="logo">
